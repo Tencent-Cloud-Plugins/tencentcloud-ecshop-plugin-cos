@@ -109,7 +109,7 @@
 - 商品展示时，商品的相关图片从腾讯云cos中获取
 - 删除商品时，腾讯云存储中与商品关联的图片也会同步删除
 
-### 6.2 tencentcloud-ecshop-plugin-cos v1.0.1（适用于ecshop 4.13版本）
+### 6.2 tencentcloud-ecshop-plugin-cos v1.0.1（适用于ecshop 4.13、4.14版本）
 
 - Beyond compare对比合入上一版插件代码到ecshop 4.13版本源码中
 - 修复商品相册中get存储桶中图片url携带根路径问题（templates\goods_info.htm）
