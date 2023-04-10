@@ -44,7 +44,8 @@ class tencent_cos
                 'credentials' => array(
                     'secretId' => $secret_id,
                     'secretKey' => $secret_key
-                )
+                ),
+                'userAgent' => "ecshop"
             )
         );
     }
